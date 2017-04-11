@@ -1,0 +1,61 @@
+.button {
+    background-color: #323746;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.red{
+    background-color: #E72E48!important;
+}
+.lblue{
+    background-color: #7AC4D4!important;
+}
+.green{
+    background-color: #95D97D!important;
+}
+.fb-button{
+    background-color: #6A91E2;
+    border: 0;
+    color: white;
+    padding: 10px 80px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    text-align: left;
+}
+.fb-button:hover{
+    cursor: pointer;
+}
+.tw-button{
+    background-color: #0FB5EE;
+    border: 0;
+    color: white;
+    padding: 10px 100px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    text-align: left;
+}
+.tw-button:hover{
+    cursor: pointer;
+}
+.gp-button{
+    background-color: #C94A3E;
+    border: 0;
+    color: white;
+    padding: 10px 100px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    text-align: left;
+}
+.gp-button:hover{
+    cursor: pointer;
+}
